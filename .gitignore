@@ -1,0 +1,11 @@
+/M365-SMTPEMAIL-Send/myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
