@@ -51,8 +51,8 @@ def send_email(sender_email, recipient_email, subject, message):
         print(f"Failed to send email: {e}")
 
 # Example usage
-sender_email = 'info@spicetechng.com'
-recipient_email = 'chisomjude0205@gmail.com'
+sender_email = 'youremail@yourm365domain.com'
+recipient_email = 'youremail@gmail.com'
 subject = 'Python Email Script'
 message = 'This is an automated email sent using Python with Microsoft 365 SMTP settings.'
 
